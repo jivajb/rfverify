@@ -1,6 +1,6 @@
 # RFVerify
 
-**Simulated RF Test Automation Framework** — Python + OpenTAP/C#
+**RF Test Automation Framework** — Python + OpenTAP/C#
 
 RFVerify is a modular RF test automation framework that synthesizes configurable signals, injects real-world impairments, and automatically validates signal quality with PASS/FAIL results. It mirrors the architecture of production RF test systems — with a Python core for signal analysis and an OpenTAP/C# prototype demonstrating how the same validation logic integrates into Keysight's PathWave test environment.
 
